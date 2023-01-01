@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://gamewalp.tk/sitemap_index.html
+Sitemap: https://gamewalp.tk/sitemap_4347336.xml
+
